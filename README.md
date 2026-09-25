@@ -1,12 +1,12 @@
 # Hi, I'm Danilo Oliveira Santos
 
 ```text
-██████╗  █████╗ ███╗   ██╗██╗██╗      ██████╗ 
-██╔══██╗██╔══██╗████╗  ██║██║██║     ██╔═══██╗
-██║  ██║███████║██╔██╗ ██║██║██║     ██║   ██║
-██║  ██║██╔══██║██║╚██╗██║██║██║     ██║   ██║
-██████╔╝██║  ██║██║ ╚████║██║███████╗╚██████╔╝
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝ ╚═════╝ 
+██████╗  █████╗ ███╗   ██╗██╗██╗      ██████╗      ██████╗ ██╗     ██╗██╗   ██╗███████╗██╗██████╗  █████╗ 
+██╔══██╗██╔══██╗████╗  ██║██║██║     ██╔═══██╗    ██╔═══██╗██║     ██║██║   ██║██╔════╝██║██╔══██╗██╔══██╗
+██║  ██║███████║██╔██╗ ██║██║██║     ██║   ██║    ██║   ██║██║     ██║██║   ██║█████╗  ██║██████╔╝███████║
+██║  ██║██╔══██║██║╚██╗██║██║██║     ██║   ██║    ██║   ██║██║     ██║╚██╗ ██╔╝██╔══╝  ██║██╔══██╗██╔══██║
+██████╔╝██║  ██║██║ ╚████║██║███████╗╚██████╔╝    ╚██████╔╝███████╗██║ ╚████╔╝ ███████╗██║██║  ██║██║  ██║
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝ ╚═════╝      ╚═════╝ ╚══════╝╚═╝  ╚═══╝  ╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-daniloosantos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloosantos)
@@ -40,11 +40,6 @@
 ## Certifications
 
 - **Cloud**: AWS Academy Graduate - Cloud Foundations
+- **AI**: AWS Certified AI Practitioner, Claude Code 101
 - **Linux**: Red Hat Training - Getting Started with Linux Fundamentals (RH104), Red Hat System Administration II (RH134)
 - **Development**: Red Hat Application Development I - Programming in Java EE (AD183)
-- **AI tooling**: Claude Code 101
-
-## Education
-
-- **Universidade Presbiteriana Mackenzie**: Bachelor's degree in Information Systems, 2023-2026
-- **ETEC Professor Basilides de Godoy**: Technical degree in Systems Analysis and Development, 2020-2021
