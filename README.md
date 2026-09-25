@@ -26,7 +26,7 @@
 
 **Cloud, DevOps, IaC**
 
-[![](https://skillicons.dev/icons?i=aws,linux,redhat,docker,kubernetes,terraform,ansible,git,githubactions&perline=9)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=aws,linux,redhat,docker,kubernetes,terraform,git,githubactions&perline=8)](https://skillicons.dev)
 
 **Languages, backend, data**
 
