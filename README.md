@@ -32,7 +32,7 @@
 
 [![](https://skillicons.dev/icons?i=java,python,bash,html,css,js,mysql,postgres&perline=8)](https://skillicons.dev)
 
-**AI**: Artificial Intelligence, Machine Learning, Foundation Models, GenAI use cases, and cloud-based solution validation.
+**AI, agents, and cloud solutions**: GenAI, AI/ML workloads, foundation models, MCP tooling, cloud-based PoCs, and solution validation.
 
 ## Certifications
 
