@@ -36,8 +36,7 @@
 
 ## Certifications
 
-- **Huawei Cloud**: HCCDP Solution Architectures; HCCDP Cloud Native DevOps
-- **AWS Academy**: Cloud Foundations; Cloud Developing
-- **AWS**: AWS Certified AI Practitioner
-- **Anthropic**: Claude Code 101; Introduction to Model Context Protocol
-- **Red Hat Academy**: Linux Fundamentals; System Administration I (RH124 - RHA); System Administration II (RH134 - RHA); Application Development I: Programming in Java EE
+- **Cloud**: Huawei Cloud HCCDP Solution Architectures, Huawei Cloud HCCDP Cloud Native DevOps, AWS Academy Cloud Foundations, AWS Academy Cloud Developing
+- **AI & agent tooling**: AWS Certified AI Practitioner, Anthropic Claude Code 101, Anthropic Introduction to Model Context Protocol
+- **Linux & systems**: Red Hat Academy Linux Fundamentals, System Administration I (RH124 - RHA), System Administration II (RH134 - RHA)
+- **Application development**: Red Hat Academy Application Development I: Programming in Java EE
