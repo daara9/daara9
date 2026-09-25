@@ -1,12 +1,15 @@
 # Hi, I'm Danilo Oliveira Santos
 
 ```text
-██████╗  █████╗ ███╗   ██╗██╗██╗      ██████╗      ██████╗ ██╗     ██╗██╗   ██╗███████╗██╗██████╗  █████╗ 
-██╔══██╗██╔══██╗████╗  ██║██║██║     ██╔═══██╗    ██╔═══██╗██║     ██║██║   ██║██╔════╝██║██╔══██╗██╔══██╗
-██║  ██║███████║██╔██╗ ██║██║██║     ██║   ██║    ██║   ██║██║     ██║██║   ██║█████╗  ██║██████╔╝███████║
-██║  ██║██╔══██║██║╚██╗██║██║██║     ██║   ██║    ██║   ██║██║     ██║╚██╗ ██╔╝██╔══╝  ██║██╔══██╗██╔══██║
-██████╔╝██║  ██║██║ ╚████║██║███████╗╚██████╔╝    ╚██████╔╝███████╗██║ ╚████╔╝ ███████╗██║██║  ██║██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝ ╚═════╝      ╚═════╝ ╚══════╝╚═╝  ╚═══╝  ╚══════╝╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+▓█████▄  ▄▄▄       ██▀███   ▄▄▄
+▒██▀ ██▌▒████▄    ▓██ ▒ ██▒▒████▄
+░██   █▌▒██  ▀█▄  ▓██ ░▄█ ▒▒██  ▀█▄
+░▓█▄   ▌░██▄▄▄▄██ ▒██▀▀█▄  ░██▄▄▄▄██
+░▒████▓  ▓█   ▓██▒░██▓ ▒██▒ ▓█   ▓██▒
+ ▒▒▓  ▒  ▒▒   ▓▒█░░ ▒▓ ░▒▓░ ▒▒   ▓▒█░
+ ░ ▒  ▒   ▒   ▒▒ ░  ░▒ ░ ▒░  ▒   ▒▒ ░
+ ░ ░  ░   ░   ▒     ░░   ░   ░   ▒
+   ░          ░  ░   ░           ░  ░
 ```
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-daniloosantos-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloosantos)
@@ -18,12 +21,6 @@
 - Studying **Information Systems at Universidade Presbiteriana Mackenzie**, Sao Paulo.
 - Focused on **Cloud Architecture, Infrastructure as Code, DevOps, AI/ML, GenAI, and foundation models**.
 - Portuguese native and professionally fluent in English.
-
-## Experience
-
-- **Huawei Cloud Brasil**: design end-to-end cloud architectures across infrastructure, networking, security, scalability, performance, and reliability. I support customers and partners through technical workshops, architecture reviews, proofs of concept, documentation, and solution proposals.
-- **EssilorLuxottica**: supported corporate IT operations, device preparation, Windows troubleshooting, asset inventory, and continuity of user services.
-- **Accenture Brasil**: worked with IT asset control, device preparation, infrastructure support activities, and ServiceNow-based administrative flows.
 
 ## Stack
 
@@ -39,7 +36,8 @@
 
 ## Certifications
 
-- **Cloud**: AWS Academy Graduate - Cloud Foundations
-- **AI**: AWS Certified AI Practitioner, Claude Code 101
-- **Linux**: Red Hat Training - Getting Started with Linux Fundamentals (RH104), Red Hat System Administration II (RH134)
-- **Development**: Red Hat Application Development I - Programming in Java EE (AD183)
+- **Huawei Cloud**: HCCDP Solution Architectures; HCCDP Cloud Native DevOps
+- **AWS Academy**: Cloud Foundations; Cloud Developing
+- **AWS**: AWS Certified AI Practitioner
+- **Anthropic**: Claude Code 101; Introduction to Model Context Protocol
+- **Red Hat Academy**: Linux Fundamentals; System Administration I (RH124 - RHA); System Administration II (RH134 - RHA); Application Development I: Programming in Java EE
