@@ -26,11 +26,11 @@
 
 **Cloud, DevOps, IaC**
 
-[![](https://skillicons.dev/icons?i=aws,linux,redhat,docker,kubernetes,terraform,git,githubactions&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=aws,azure,gcp,linux,redhat,kubernetes,terraform,git&perline=8)](https://skillicons.dev)
 
 **Languages, backend, data**
 
-[![](https://skillicons.dev/icons?i=java,python,bash,html,css,js,mysql,postgres&perline=8)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,java,react,js,postgres,bash&perline=6)](https://skillicons.dev)
 
 **AI**: Artificial Intelligence, Machine Learning, Foundation Models, GenAI use cases, and cloud-based solution validation.
 
